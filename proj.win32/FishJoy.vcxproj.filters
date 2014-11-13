@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\View">
+      <UniqueIdentifier>{1c71cc1e-95aa-438d-8b44-20cc5394a123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Model">
+      <UniqueIdentifier>{2441130c-f405-4dd5-9889-0dac6f522bbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Tools">
+      <UniqueIdentifier>{40d6516d-6a8f-4ce3-91ed-a9c87565a13c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\View\Main">
+      <UniqueIdentifier>{f91f6a27-a54d-4d8c-a079-8cc0b161cdb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\View\Main\FishingJoy">
+      <UniqueIdentifier>{11a07e49-210f-4340-8d24-dc20ab004c70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\View\Main\PayDemo">
+      <UniqueIdentifier>{92d2fe76-b114-4deb-90a5-22dcf014f632}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\View\Logo">
+      <UniqueIdentifier>{ffea71a4-e0cd-4a3e-994f-6f0a3a0ebed3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\View\Login">
+      <UniqueIdentifier>{5e118580-dc83-4087-b825-5124bcd0c4eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\View\Main\LittleRun">
+      <UniqueIdentifier>{7d1f9a7a-ff2e-4d0e-b5b1-8350b1af096e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Model\Collision">
+      <UniqueIdentifier>{56b948a5-ad2a-4bc2-940a-0883b5f1080a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Model\Cannon">
+      <UniqueIdentifier>{e9bf7bc5-e536-4a73-b964-bb87231c3970}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Model\Skill">
+      <UniqueIdentifier>{1173b95a-b057-4b7b-82af-ab10653f229e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Model\Skill\Bullet">
+      <UniqueIdentifier>{7c0569f9-5de1-4b76-a200-c5a745bf235b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Model\Skill\Effect">
+      <UniqueIdentifier>{10afadb0-613c-4b06-a1ea-6ae068b9f077}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Model\Skill\Common">
+      <UniqueIdentifier>{5433c3bf-324e-491f-8905-f983bcd31539}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Model\Weapon">
+      <UniqueIdentifier>{62b96649-bcbf-44c3-a56d-f669dfe9b388}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameConfig.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SceneFactory.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\FishingJoyData.cpp">
+      <Filter>Classes\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\StaticData.cpp">
+      <Filter>Classes\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\login\LoginScene.cpp">
+      <Filter>Classes\View\Login</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\login\LoginView.cpp">
+      <Filter>Classes\View\Login</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\logo\LogoScene.cpp">
+      <Filter>Classes\View\Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\logo\LogoView.cpp">
+      <Filter>Classes\View\Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Tools\AnimationUtil.cpp">
+      <Filter>Classes\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\FishingJoy\GameScene.cpp">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\LittleRun\Entity.cpp">
+      <Filter>Classes\View\Main\LittleRun</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\LittleRun\FlowWords.cpp">
+      <Filter>Classes\View\Main\LittleRun</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\LittleRun\Monster.cpp">
+      <Filter>Classes\View\Main\LittleRun</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\LittleRun\MonsterManager.cpp">
+      <Filter>Classes\View\Main\LittleRun</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\LittleRun\Player.cpp">
+      <Filter>Classes\View\Main\LittleRun</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\LittleRun\TollgateScene.cpp">
+      <Filter>Classes\View\Main\LittleRun</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\FishingJoy\BackgroundLayer.cpp">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\FishingJoy\FishLayer.cpp">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\FishingJoy\CannonLayer.cpp">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\FishingJoy\MenuLayer.cpp">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\FishingJoy\PanelLayer.cpp">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Fish.cpp">
+      <Filter>Classes\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\PayDemo\PayDemoView.cpp">
+      <Filter>Classes\View\Main\PayDemo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\PayDemo\PayDemoScene.cpp">
+      <Filter>Classes\View\Main\PayDemo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Main\FishingJoy\TouchLayer..cpp">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Skill\BulletNode.cpp">
+      <Filter>Classes\Model\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Skill\Bullet.cpp">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Skill\BulletBall.cpp">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Skill\BulletBallFactory.cpp">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Skill\BulletNormal.cpp">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Skill\BulletNormalFactory.cpp">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Skill\BulletManager.cpp">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Skill\AbstractEffectFactory.h">
+      <Filter>Classes\Model\Skill\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Skill\Effect.cpp">
+      <Filter>Classes\Model\Skill\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Skill\EffectManager.cpp">
+      <Filter>Classes\Model\Skill\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Skill\EffectNormalFactory.cpp">
+      <Filter>Classes\Model\Skill\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Skill\EffectNormal.cpp">
+      <Filter>Classes\Model\Skill\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Cannon\CannonNormal.cpp">
+      <Filter>Classes\Model\Cannon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Cannon\CannonNode.cpp">
+      <Filter>Classes\Model\Cannon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Collision\CollisionBaseManager.cpp">
+      <Filter>Classes\Model\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Collision\CollisionContainer.cpp">
+      <Filter>Classes\Model\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Collision\CollisionSprite.cpp">
+      <Filter>Classes\Model\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Weapon\FishingNode.cpp">
+      <Filter>Classes\Model\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Skill\BulletBatchNode.cpp">
+      <Filter>Classes\Model\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Model\Collision\CollisionSpriteBatch.cpp">
+      <Filter>Classes\Model\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Login\ChooseGame.cpp">
+      <Filter>Classes\View\Login</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\View\Login\ChooseTableView.cpp">
+      <Filter>Classes\View\Login</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameConfig.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SceneFactory.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\FishingJoyData.h">
+      <Filter>Classes\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\StaticData.h">
+      <Filter>Classes\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\login\LoginScene.h">
+      <Filter>Classes\View\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\login\LoginView.h">
+      <Filter>Classes\View\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\logo\LogoScene.h">
+      <Filter>Classes\View\Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\logo\LogoView.h">
+      <Filter>Classes\View\Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Tools\AnimationUtil.h">
+      <Filter>Classes\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\FishingJoy\GameScene.h">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\LittleRun\Entity.h">
+      <Filter>Classes\View\Main\LittleRun</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\LittleRun\FlowWords.h">
+      <Filter>Classes\View\Main\LittleRun</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\LittleRun\Monster.h">
+      <Filter>Classes\View\Main\LittleRun</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\LittleRun\MonsterManager.h">
+      <Filter>Classes\View\Main\LittleRun</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\LittleRun\Player.h">
+      <Filter>Classes\View\Main\LittleRun</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\LittleRun\TollgateScene.h">
+      <Filter>Classes\View\Main\LittleRun</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\FishingJoy\BackgroundLayer.h">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\FishingJoy\FishLayer.h">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\FishingJoy\CannonLayer.h">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\FishingJoy\MenuLayer.h">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\FishingJoy\PanelLayer.h">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Fish.h">
+      <Filter>Classes\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\PayDemo\PayDemoView.h">
+      <Filter>Classes\View\Main\PayDemo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\PayDemo\PayDemoScene.h">
+      <Filter>Classes\View\Main\PayDemo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Main\FishingJoy\TouchLayer.h">
+      <Filter>Classes\View\Main\FishingJoy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Weapon\WeaponStrategy.h">
+      <Filter>Classes\Model\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Weapon\WeaponCommon.h">
+      <Filter>Classes\Model\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\BulletNode.h">
+      <Filter>Classes\Model\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\AbstractBulletFactory.h">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\Bullet.h">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\BulletBall.h">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\BulletBallFactory.h">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\BulletNormal.h">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\BulletNormalFactory.h">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\BulletManager.h">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\Effect.h">
+      <Filter>Classes\Model\Skill\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\EffectObserver.h">
+      <Filter>Classes\Model\Skill\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\SkillDelegate.h">
+      <Filter>Classes\Model\Skill\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\BulletCommon.h">
+      <Filter>Classes\Model\Skill\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\EffectManager.h">
+      <Filter>Classes\Model\Skill\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\EffectNormalFactory.h">
+      <Filter>Classes\Model\Skill\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\EffectNormal.h">
+      <Filter>Classes\Model\Skill\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Cannon\CannonNode.h">
+      <Filter>Classes\Model\Cannon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Cannon\AbstractCannon.h">
+      <Filter>Classes\Model\Cannon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Cannon\CannonNormal.h">
+      <Filter>Classes\Model\Cannon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Collision\CollisionBase.h">
+      <Filter>Classes\Model\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Collision\CollisionBaseManager.h">
+      <Filter>Classes\Model\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Collision\CollisionContainer.h">
+      <Filter>Classes\Model\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Collision\CollisionSprite.h">
+      <Filter>Classes\Model\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Weapon\FishingNode.h">
+      <Filter>Classes\Model\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Skill\BulletBatchNode.h">
+      <Filter>Classes\Model\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Model\Collision\CollisionSpriteBatch.h">
+      <Filter>Classes\Model\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Login\ChooseGame.h">
+      <Filter>Classes\View\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\View\Login\ChooseTableView.h">
+      <Filter>Classes\View\Login</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

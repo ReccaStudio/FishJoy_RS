@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AppDelegate" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAACAAQAAAEAAAAAAAAAAAAg=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\AppDelegate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HelloWorld" Collapsed="true">
+    <Position X="21" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAABAIAABAAAAAAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\HelloWorldScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneFactory" Collapsed="true">
+    <Position X="21" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\SceneFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackgroundLayer" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAACAAAIAABAAAAAAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\FishingJoy\BackgroundLayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CannonLayer" Collapsed="true">
+    <Position X="21" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgAAAAIAAAgAAAAADAAAAAACBAIAABAAAAAEAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\FishingJoy\CannonLayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishLayer" Collapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAACAAAAAAAAAAAEAAAAAIAABgAAAAEAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\FishingJoy\FishLayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameScene" Collapsed="true">
+    <Position X="19.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CiEAQAgEiAAAAAAAAAAADEAAAIABEAIACJAAAAAGoAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\FishingJoy\GameScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuLayer" Collapsed="true">
+    <Position X="19.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAAAAAEgAAAgAAgAAgAAAAAAAAAAAIBQBQAAAACIAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\FishingJoy\MenuLayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PanelLayer" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAACAIAABAAAAAAIAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\FishingJoy\PanelLayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TouchLayer" Collapsed="true">
+    <Position X="15.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JgCAAAAAAAAAAAABAAAAABAQAAAAAAIAABAAAACAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\FishingJoy\TouchLayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PayDemoScene" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAIAAAAAAAAAAAAABAAAQAAAAYAABAAAACAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\PayDemo\PayDemoScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PayDemoView" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAQAAIABgIAAAAAAAAAAAAAAABAIAABAAAACAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\PayDemo\PayDemoView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entity" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAABAAAAAAACAAAAIAAAEAAAAAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\LittleRun\Entity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowWords" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAEAQAAAAAIIAABAAAAAAAAE=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\LittleRun\FlowWords.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monster" Collapsed="true">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAABAEAAAAAAAACAAAABAAAAAAAAIABhAAAAEAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\LittleRun\Monster.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonsterManager" Collapsed="true">
+    <Position X="21" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAAAAAAFAgAAAAAAAAAAAAQABAYgABAAQAAEAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\LittleRun\MonsterManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAAAAAIgAAACAAAACABAAQQAIAABAAAUAAABA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\LittleRun\Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TollgateScene" Collapsed="true">
+    <Position X="14" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAIABgAAAABgAAIEAEQAESMIAABAAAAAEAEA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\LittleRun\TollgateScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogoScene" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAQAAAAAAAEQAAAIAABAAAAAAAAIAABAAAACAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\logo\LogoScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogoView" Collapsed="true">
+    <Position X="17.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAABAIEEBAAEAAAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\logo\LogoView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginScene" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAIAAAAAAAAAAAAABAAAAACAAYAABAAAACEAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\login\LoginScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginView" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgIgAAAAAACCCQAEAAAAACEBEYAABAAAEBAAQA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\login\LoginView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionBase" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAIACAAAAAAAAAAAAAAAAACAIAAgAIAAABAAAAAACA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\CollisionBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionContainer" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQIAIgAAAABEAAABAAAAACAIAABAAAAAAIAI=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\CollisionContainer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionBaseManager" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAGAAEAAQAAAAAABARAAAAAAAAAFAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\CollisionBaseManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionSprite" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAIAAAAAQCAAAAABAAAABAAAIAgAIAAABAAAAAAAI=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\CollisionSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fish" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAgAIAAgBAAAAEAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Fish.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingJoy" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAkgAAAAAAAAAAAACEAAAAAAAYAAAkEAAAAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\FishingJoyData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaticData" Collapsed="true">
+    <Position X="12.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAACAAABAAAAiCAAEAARBAYAAAEAAAAEAQI=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\StaticData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingNode" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIAAAAAAAAAgAAAAAAAAAAAAAkAICAABAAAAAAAQ=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Weapon\FishingNode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeaponManager" Collapsed="true">
+    <Position X="17.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIAAQAAAAAgAAAAAAAAAAAAAACAQAAAAAAAAEAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Weapon\WeaponManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeaponStrategy" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAgAAAAAAgAAAAACAAAAAAAEAACAAACAAAEAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Weapon\WeaponStrategy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimationUtil" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAgAAAAAAAAABAAAAABAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Tools\AnimationUtil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConfig::PluginConfig" Collapsed="true">
+    <Position X="17.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAABBAABIAAANAAhASAAgRAACAEQAIA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\GameConfig.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConfig::RealseCache" Collapsed="true">
+    <Position X="19.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAEAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\GameConfig.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAiAAAAACAAAAAAAAAAAAAAAAAEAAAAAAAQAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Skill\Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletManager" Collapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIQCAAAgAAAAAAAAAAAQAAAAAAgAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Skill\BulletManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletNormal" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAACAAAgACAAAAAAAAAAAAAAgAIAAABCAAAAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Skill\BulletNormal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletNormalFactory" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAECAAAAAAAAAAAAAAAAgAAAgCAAQAAAAQAAAAAAI=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Skill\BulletNormalFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetEffect" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAEAAQCAIAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Skill\NetEffect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetNormal" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAQAAAACAgAAAAAAiAIAABBAAAAAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Skill\NetNormal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="OperateFlag" Collapsed="true">
+    <Position X="21" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\View\Main\FishingJoy\GameScene.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_04d6_1" Collapsed="true">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Fish.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Unity_Clan" Collapsed="true">
+    <Position X="12.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAABAAAAABABAAEAAAAAAAAAAAAEAAABAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\CollisionBase.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FishType" Collapsed="true">
+    <Position X="19.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAQAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Fish.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WEAPON_STATUS" Collapsed="true">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAABAAg=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Weapon\WeaponCommon.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WEAPON_TYPE" Collapsed="true">
+    <Position X="15.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAgAAAAAAAACAAIAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Weapon\WeaponCommon.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameConfig::__unnamed_enum_0315_1" Collapsed="true">
+    <Position X="12.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAIAAAAAAAAAAAAAAAAAAIAAAAABAAAAAAI=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\GameConfig.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BULLET_ANCTION" Collapsed="true">
+    <Position X="15.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Skill\Bullet.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BULLET_TYPE" Collapsed="true">
+    <Position X="17.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAgAAAAAAAACAAIAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>D:\Android_86\cocos2d-x-3.2\tests\FishJoy\Classes\Model\Skill\Bullet.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
